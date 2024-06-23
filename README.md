@@ -1,5 +1,5 @@
 #   Todo List Web Application
-A simple and elegant web application for managing your to-do tasks. Built using HTML, CSS, and JavaScript, this app allows you to add and delete tasks seamlessly.
+A elegant web application for managing your to-do tasks. Built using HTML, CSS, and JavaScript, this app allows you to add and delete tasks seamlessly.
 
 ## Features
 - Add Tasks: Quickly add new tasks to your to-do list.
