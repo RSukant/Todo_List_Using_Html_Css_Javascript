@@ -23,5 +23,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 #### Contact: sukantravichandran17@gmail.com
 #### GitHub: https://github.com/RSukant
 
-## Screenshots
+## Screenshot
 ![image](https://github.com/RSukant/Todo_List_Using_Html_Css_Javascript/assets/143053393/85d88849-3ad8-469e-88e2-598edc4e1c77)
